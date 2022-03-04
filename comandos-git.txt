@@ -1,0 +1,8 @@
+git add -A //añade todos los archivos no trakeados
+git commit -m "comentario a guardar" // hace el commit
+git push //envia los cambios
+git status // muestra el estatus
+git log
+
+git clone URL //para clonar un repositorio de javascript
+npm install -g git-install //para instarl git
